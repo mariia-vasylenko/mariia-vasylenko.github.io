@@ -1,0 +1,67 @@
+#s5, #s6, #s7 {
+	position: relative;
+}
+
+.text1 {
+	width: 250px;
+	position: absolute;
+	top:64%;
+	left:490px;
+	font-size: 2em;
+	z-index: 9;
+}
+
+.photo1 {
+	position: absolute;
+	bottom: -25%;
+	z-index: 1;
+}
+
+.grid5 {
+	position: absolute;
+	bottom:0;
+	right:0;
+	width:200px;
+	top:22%;
+
+}
+
+.photo2{
+	position: absolute;
+	bottom:0;
+	right:0;
+}
+
+.text2 {
+	position: absolute;
+	font-size: 2em;
+	width: 250px;
+	right: 300px;
+}
+
+.text3 {
+	position: absolute;
+	font-size: 2em;
+	width: 250px;
+	left:490px;
+	top:13%;
+}
+
+.grid6 {
+	width:300px;
+	position: absolute;
+	bottom:0;
+	left:-25px;
+}
+
+.photo3 {
+	position: absolute;
+	top:13%;
+	z-index: 1;
+}
+
+.grid7 {
+	position: absolute;
+	width:450px;
+	top:184px;
+}

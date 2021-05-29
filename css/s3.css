@@ -1,0 +1,64 @@
+#s3 {
+	position:relative;
+}
+
+#s4 {
+	position:relative;
+}
+
+.box a {
+	font-size: 2em;
+	color: #000;
+	text-decoration: none;
+}
+
+.box a:hover {
+	color: #E03289;
+	transition: 150ms;
+}
+
+.img4 {
+	width:300px;
+	right:-10px;
+	top: -1px;
+	position: absolute;
+}
+
+.img5 {
+	width:300px;
+	right:15%;
+	top: -100px;
+	position: absolute;
+}
+
+.img6 {
+	width: 160px;
+	right:15%;
+	bottom:75px;
+	position: absolute;
+}
+
+.img7 {
+	width: 320px;
+	right:9%;
+	bottom:75px;
+	position: absolute;
+}
+
+.back {
+	font-size: 1.3em;
+	color: #000;
+	text-decoration: none;
+	line-height: 5em;
+}
+
+.back:hover {
+	color: #E03289;
+	transition: 150ms;
+}
+
+.evro {
+	margin-right: 10em;
+	width: 48vw;
+}
+

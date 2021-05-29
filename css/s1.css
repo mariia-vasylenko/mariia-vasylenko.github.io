@@ -1,0 +1,27 @@
+#s1 .container {
+	position: relative;
+}
+
+.box {
+	width: 25vw;
+	margin-right: 10em;
+}
+
+.about {
+display: flex;
+flex-wrap: wrap;
+}
+
+.box h2 {
+	font-size: 2em;
+}
+
+.box p {
+	font-size: 1.2em;
+}
+
+.img3 {
+	width: 320px;
+	margin-top: 0px;
+	margin-bottom: 70px
+}
